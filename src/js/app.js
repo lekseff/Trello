@@ -1,9 +1,6 @@
-/* eslint-disable no-unused-vars */
 // TODO: write code here
+import Trello from './Trello';
 
-const oldInput = document.querySelector('.input-file');
-const newInput = document.querySelector('.newInput');
-
-newInput.addEventListener('click', () => {
-  console.log('клик');
-});
+const page = document.querySelector('#trello');
+const app = new Trello(page);
+app.init();
