@@ -1,6 +1,6 @@
-![example workflow](https://github.com/lekseff/AHJ_5-3/actions/workflows/deploy.yml/badge.svg)
+![example workflow](https://github.com/lekseff/Trello/actions/workflows/deploy.yml/badge.svg)
 
-[GitHub Pages](https://lekseff.github.io/AHJ_5-3/)
+[GitHub Pages](https://lekseff.github.io/Trello/)
 
 ### Trello
 
